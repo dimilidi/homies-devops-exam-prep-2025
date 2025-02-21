@@ -1,3 +1,1 @@
 Sample .NET project
-
-Revert
